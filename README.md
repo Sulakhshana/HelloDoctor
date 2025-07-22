@@ -1,13 +1,14 @@
-🩺 HelloDoctor – Doctor Appointment Booking System
-HelloDoctor is a full-stack web application where patients can book and manage appointments with doctors. The platform supports three types of users:
+# 🩺 HelloDoctor – Doctor Appointment Booking System
 
-Patients: Register, log in, book appointments, and manage bookings
+**HelloDoctor** is a full-stack web application where patients can book and manage appointments with doctors. The platform supports three types of users:
 
-Doctors: View appointments, update profiles, and track earnings
+- **Patients**: Register, log in, book appointments, and manage bookings  
+- **Doctors**: View appointments, update profiles, and track earnings  
+- **Admins**: Manage doctors and oversee all appointments in the system
 
-Admins: Manage doctors and oversee all appointments in the system
+---
 
-🔗 Live Links
-🌐 Live Demo : https://hellodoctor-frontend.onrender.com
-🛠 Admin Dashboard: https://hellodoctor-admin.onrender.com
+## 🔗 Live Links
 
+- 🌐 **Live Demo (Patient View)**: [https://hellodoctor-frontend.onrender.com](https://hellodoctor-frontend.onrender.com)  
+- 🛠 **Admin Dashboard**: [https://hellodoctor-admin.onrender.com](https://hellodoctor-admin.onrender.com)
